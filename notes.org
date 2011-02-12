@@ -1,0 +1,8 @@
+* Tasks
+** TODO Study the slime sources
+** TODO Study the DREI sources
+** TODO Port slime into Common Lisp
+** TODO Merge that into DREI
+
+* Notes
+Not like this is overly ambitious, or anything...
